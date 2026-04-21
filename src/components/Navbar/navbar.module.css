@@ -1,0 +1,27 @@
+.social {
+  display: flex; /* 👈 This makes them horizontal */
+  gap: 15px;     /* 👈 This adds space between them */
+  flex: 1;
+}
+
+.logo {
+  flex: 1;
+  font-size: 32px;
+  font-weight: bold;
+  text-align: center;
+  background: #f2c0c0;
+}
+
+.links {
+  flex: 1;
+  display: flex;
+  justify-content: flex-end;
+  gap: 20px;
+}
+
+.container {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  height: 100px;
+}
