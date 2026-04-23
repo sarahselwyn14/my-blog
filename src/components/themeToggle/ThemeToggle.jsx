@@ -1,9 +1,9 @@
-import React from 'react'
-import styles from "./themeToggle.module.css"
+import React from 'react';
+import styles from "./themeToggle.module.css";
 const ThemeToggle = () => {
     return(
-    <div classname = {styles.container}>ThemeToggle</div>
+    <div className = {styles.container}>ThemeToggle</div>
     )
 }
 
-export default ThemeToggle
+export default ThemeToggle;

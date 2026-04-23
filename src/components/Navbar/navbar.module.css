@@ -1,15 +1,16 @@
 .social {
-  display: flex; /* 👈 This makes them horizontal */
-  gap: 15px;     /* 👈 This adds space between them */
+  display: flex; /* This makes them horizontal */
+  gap: 15px;     /* This adds space between them */
   flex: 1;
+
 }
 
 .logo {
   flex: 1;
-  font-size: 32px;
+  font-size: 36px;
   font-weight: bold;
   text-align: center;
-  background: #f2c0c0;
+  background: #ffffff;
 }
 
 .links {

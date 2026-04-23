@@ -1,8 +1,6 @@
-
-import styles from "./globals.css";
 import Featured from "@/components/featured/Featured";
-import CategoryList from "@/components/categoryList/categoryList";
-import CardList from "@/components/cardList/cardList";
+import categoryList from "@/components/categoryList/categoryList";
+import cardList from "@/components/cardList/cardList";
 import Menu from "@/components/Menu/Menu";
 export default async function Home() {
   // 1. Fetch the data from the API route you created
