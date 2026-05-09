@@ -2,8 +2,8 @@ import tailwindcss
 :root{
   --bg:white,
   --textColor:Black;
-  --softBg:#f0f0f0;
-  --softTextColor:#626262
+  --softBg:#c38cad;
+  --softTextColor:#894949;
 }
 
 border{
